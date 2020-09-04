@@ -1,0 +1,8 @@
+a {
+  text-decoration: none;
+  color: lightgrey;
+}
+a:hover {
+  color: white;
+  transition: color 0.3s;
+}
